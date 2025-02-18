@@ -1,0 +1,8 @@
+{
+    "sql_db_host": "localhost",
+    "sql_db_user": "sql_social_chatx",
+    "sql_db_pass": "d76617cb76366",
+    "sql_db_name": "sql_social_chatx",
+    "site_url": "https://social.chatx.vn",
+    "purchase_code": "56cfb629-cbc6-4105-bac2-11ca758b1eac"
+}
